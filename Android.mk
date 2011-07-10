@@ -7,7 +7,7 @@ LOCAL_SRC_FILES := $(call all-java-files-under, src)
 
 LOCAL_STATIC_JAVA_LIBRARIES := com.android.phone.common
 
-LOCAL_PACKAGE_NAME := Contacts
+LOCAL_PACKAGE_NAME := WyContacts
 LOCAL_CERTIFICATE := shared
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags

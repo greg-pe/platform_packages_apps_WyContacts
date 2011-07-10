@@ -10,7 +10,7 @@ LOCAL_JAVA_LIBRARIES := android.test.runner
 # Include all test java files.
 LOCAL_SRC_FILES := $(call all-java-files-under, src)
 
-LOCAL_PACKAGE_NAME := ContactsTests
+LOCAL_PACKAGE_NAME := WyContactsTests
 
 LOCAL_INSTRUMENTATION_FOR := Contacts
 
